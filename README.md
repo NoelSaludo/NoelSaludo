@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My full name is Noel Zyrence M. Saludo, and currently, I am studying Bachelor of Science in Computer Science at Batangas State University The National Engineering University - Alangilan Campus.
+
+My prefer languages are
+ - C++
+ - Python
+
+My goal after taking college is to become a software developer
+
 <!--
 **NoelSaludo/NoelSaludo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
