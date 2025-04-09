@@ -1,24 +1,17 @@
-## Hi there 👋
+# Hello Everyone
+I am Noel Zyrence M. Saludo and here is something about my self
+- I live in the Philippines
+- I am studying Bachelors of Science in Computer Science at BatStateU TNEU-Alangilan Campus
+- I am interested in computer graphics, automation, and games
 
-My full name is Noel Zyrence M. Saludo, and currently, I am studying for a Bachelor of Science in Computer Science at Batangas State University The National Engineering University - Alangilan Campus.
+## My Stats
+[![noelsaludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelsaludo&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelsaludo&theme=catppuccin_mocha&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-My prefer languages are
- - C++
- - Python
-
-My goal after taking college is to become a graphics programmer
-
-<!--
-**NoelSaludo/NoelSaludo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Projects
+- [Amaze](https://github.com/NoelSaludo/Amaze) is a academic project where we created a maze and use algorithms 
+such as depth first search and breadth first search
+- [OpenGL Series](https://github.com/NoelSaludo/OpenGLPlayground) is a playground where i play around with opengl and computer graphics
+### Currently working on
+- [DAHON](https://github.com/Brian-Kristofer-Perez/DAHON) is a Image processing application where it analyzes a leaf image and determines the disease
+if it has one
